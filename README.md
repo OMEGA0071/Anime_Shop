@@ -1,5 +1,6 @@
 # Anime-Shop
-**Anime Merchandise Website**
+**Anime Merchandise Website:**
+
 This project is a website for purchasing t-shirts and accessories inspired by anime, developed using HTML, CSS, and JavaScript. It includes a dynamic homepage, categorized shopping options, user account management, secure checkout, and an admin dashboard for inventory and orders. Future enhancements will focus on search functionality, social media integration, and global accessibility features.
 ## Description :
 * Platform for purchasing t-shirts and accessories inspired by various anime series.
